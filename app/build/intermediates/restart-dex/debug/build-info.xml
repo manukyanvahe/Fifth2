@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<instant-run
+    abi="x86_64,x86"
+    api-level="23"
+    density="420dpi"
+    format="7"
+    timestamp="210857718814571"
+    token="305183062481248180" >
+
+    <task
+        name="javac"
+        duration="162" />
+    <task
+        name="instant-run-dex"
+        duration="0" />
+    <task
+        name="instant-run-transform"
+        duration="117" />
+    <task
+        name="verifier"
+        duration="5" />
+
+    <artifact
+        location="/home/wibeaver1/AndroidStudioProjects/Fifth2/app/build/outputs/apk/app-debug.apk"
+        type="MAIN" />
+
+    <build timestamp="210857718814571" >
+        <artifact
+            location="/home/wibeaver1/AndroidStudioProjects/Fifth2/app/build/outputs/apk/app-debug.apk"
+            type="MAIN" />
+    </build>
+
+</instant-run>

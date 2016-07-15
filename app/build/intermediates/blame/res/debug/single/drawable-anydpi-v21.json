@@ -1,0 +1,34 @@
+[
+    {
+        "merged": "C:\\Users\\manuk\\AndroidStudioProjects\\Fifth2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21\\ic_sent.xml",
+        "source": "C:\\Users\\manuk\\AndroidStudioProjects\\Fifth2\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_sent.xml"
+    },
+    {
+        "merged": "C:\\home\\wibeaver1\\AndroidStudioProjects\\Fifth2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21\\ic_sent.xml",
+        "source": "C:\\home\\wibeaver1\\AndroidStudioProjects\\Fifth2\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_sent.xml"
+    },
+    {
+        "merged": "C:\\home\\wibeaver1\\AndroidStudioProjects\\Fifth2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21\\ic_conversation.xml",
+        "source": "C:\\home\\wibeaver1\\AndroidStudioProjects\\Fifth2\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_conversation.xml"
+    },
+    {
+        "merged": "C:\\Users\\manuk\\AndroidStudioProjects\\Fifth2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21\\ic_received.xml",
+        "source": "C:\\Users\\manuk\\AndroidStudioProjects\\Fifth2\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_received.xml"
+    },
+    {
+        "merged": "C:\\home\\wibeaver1\\AndroidStudioProjects\\Fifth2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21\\ic_received.xml",
+        "source": "C:\\home\\wibeaver1\\AndroidStudioProjects\\Fifth2\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_received.xml"
+    },
+    {
+        "merged": "C:\\Users\\manuk\\AndroidStudioProjects\\Fifth2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21\\ic_partner.xml",
+        "source": "C:\\Users\\manuk\\AndroidStudioProjects\\Fifth2\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_partner.xml"
+    },
+    {
+        "merged": "C:\\Users\\manuk\\AndroidStudioProjects\\Fifth2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21\\ic_conversation.xml",
+        "source": "C:\\Users\\manuk\\AndroidStudioProjects\\Fifth2\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_conversation.xml"
+    },
+    {
+        "merged": "C:\\home\\wibeaver1\\AndroidStudioProjects\\Fifth2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21\\ic_partner.xml",
+        "source": "C:\\home\\wibeaver1\\AndroidStudioProjects\\Fifth2\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_partner.xml"
+    }
+]

@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="@dimen/nav_header_height"
+    android:background="@drawable/side_nav_bar"
+    android:gravity="bottom"
+    android:orientation="vertical"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    android:theme="@style/ThemeOverlay.AppCompat.Dark"
+    android:weightSum="1">
+    <LinearLayout
+        android:orientation="horizontal"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+    <!--<ImageView-->
+        <!--android:id="@+id/authImage"-->
+        <!--android:layout_width="wrap_content"-->
+        <!--android:layout_height="wrap_content"-->
+        <!--android:paddingTop="@dimen/nav_header_vertical_spacing"-->
+        <!--android:src="@android:drawable/sym_def_app_icon"-->
+        <!--android:layout_gravity="bottom" />-->
+        <com.joooonho.SelectableRoundedImageView
+            xmlns:app="http://schemas.android.com/apk/res-auto"
+            android:id="@+id/authImage"
+            android:src="@android:drawable/sym_def_app_icon"
+            android:scaleType="centerCrop"
+            app:sriv_border_width="0dip"
+            app:sriv_border_color="#008fea"
+            app:sriv_oval="true"
+            android:layout_height="75dp"
+            android:layout_width="75dp" />
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="75dp"
+            android:orientation="vertical"
+            android:layout_marginLeft="@dimen/activity_horizontal_margin">
+            <TextView
+                android:id="@+id/authName"
+                android:shadowColor="#333333"
+                android:textColor="#ffffff"
+                android:shadowRadius="15"
+                android:textSize="20sp"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:paddingTop="@dimen/nav_header_vertical_spacing"
+                android:textAppearance="@style/TextAppearance.AppCompat.Body1" />
+
+            <TextView
+                android:id="@+id/authEmail"
+                android:textColor="#ffffff"
+                android:shadowColor="#333333"
+                android:shadowRadius="15"
+                android:textSize="8sp"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"/>
+        </LinearLayout>
+    </LinearLayout>
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:weightSum="10"
+        android:orientation="horizontal">
+        <ProgressBar
+            style="?android:attr/progressBarStyleHorizontal"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="8"
+            android:progress="50"
+            android:id="@+id/today_progress"
+            android:layout_gravity="bottom" />
+        <TextView
+            android:id="@+id/today_hours"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="2"
+            android:textColor="#ffffff"
+            android:shadowColor="#333333"
+            android:shadowRadius="15"
+            android:textSize="12sp"
+            android:gravity="right"
+            android:text="00:00"/>
+    </LinearLayout>
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:weightSum="10"
+        android:orientation="horizontal">
+        <ProgressBar
+            style="?android:attr/progressBarStyleHorizontal"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="8"
+            android:progress="50"
+            android:id="@+id/weekly_progress"
+            android:layout_gravity="bottom" />
+        <TextView
+            android:id="@+id/weekly_hours"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="2"
+            android:textColor="#ffffff"
+            android:shadowColor="#333333"
+            android:shadowRadius="15"
+            android:textSize="12sp"
+            android:gravity="right"
+            android:text="00:00"/>
+    </LinearLayout>
+
+    <LinearLayout
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <Switch
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Working"
+            android:id="@+id/working" />
+
+    </LinearLayout>
+
+</LinearLayout>
