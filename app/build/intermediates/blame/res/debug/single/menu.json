@@ -1,13 +1,5 @@
 [
     {
-        "merged": "C:\\home\\wibeaver1\\AndroidStudioProjects\\Fifth2\\app\\build\\intermediates\\res\\merged\\debug\\menu\\main_drawer.xml",
-        "source": "C:\\home\\wibeaver1\\AndroidStudioProjects\\Fifth2\\app\\src\\main\\res\\menu\\main_drawer.xml"
-    },
-    {
-        "merged": "C:\\home\\wibeaver1\\AndroidStudioProjects\\Fifth2\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu_conversation.xml",
-        "source": "C:\\home\\wibeaver1\\AndroidStudioProjects\\Fifth2\\app\\src\\main\\res\\menu\\menu_conversation.xml"
-    },
-    {
         "merged": "C:\\Users\\manuk\\AndroidStudioProjects\\Fifth2\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu_conversation.xml",
         "source": "C:\\Users\\manuk\\AndroidStudioProjects\\Fifth2\\app\\src\\main\\res\\menu\\menu_conversation.xml"
     },
@@ -18,9 +10,5 @@
     {
         "merged": "C:\\Users\\manuk\\AndroidStudioProjects\\Fifth2\\app\\build\\intermediates\\res\\merged\\debug\\menu\\main.xml",
         "source": "C:\\Users\\manuk\\AndroidStudioProjects\\Fifth2\\app\\src\\main\\res\\menu\\main.xml"
-    },
-    {
-        "merged": "C:\\home\\wibeaver1\\AndroidStudioProjects\\Fifth2\\app\\build\\intermediates\\res\\merged\\debug\\menu\\main.xml",
-        "source": "C:\\home\\wibeaver1\\AndroidStudioProjects\\Fifth2\\app\\src\\main\\res\\menu\\main.xml"
     }
 ]

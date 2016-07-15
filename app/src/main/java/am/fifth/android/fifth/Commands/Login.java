@@ -86,7 +86,6 @@ public class Login {
     private void storeToken(String response) throws JSONException {
         JSONObject UserJson = new JSONObject(response);
         TokenManager.storeToken(context,UserJson.getJSONObject("profile_data").getString("api_token"));
-        redirectToMain();
     }
 
     private void redirectToMain() {

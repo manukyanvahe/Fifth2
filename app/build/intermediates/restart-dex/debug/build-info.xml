@@ -1,32 +1,32 @@
 <?xml version="1.0" encoding="utf-8"?>
 <instant-run
-    abi="x86_64,x86"
-    api-level="23"
-    density="420dpi"
+    abi="armeabi-v7a,armeabi"
+    api-level="22"
+    density="xhdpi"
     format="7"
-    timestamp="210857718814571"
-    token="305183062481248180" >
+    timestamp="1588773246852"
+    token="8556338589126462031" >
 
     <task
         name="javac"
-        duration="162" />
+        duration="2328" />
     <task
         name="instant-run-dex"
         duration="0" />
     <task
         name="instant-run-transform"
-        duration="117" />
+        duration="1320" />
     <task
         name="verifier"
-        duration="5" />
+        duration="236" />
 
     <artifact
-        location="/home/wibeaver1/AndroidStudioProjects/Fifth2/app/build/outputs/apk/app-debug.apk"
+        location="C:\Users\manuk\AndroidStudioProjects\Fifth2\app\build\outputs\apk\app-debug.apk"
         type="MAIN" />
 
-    <build timestamp="210857718814571" >
+    <build timestamp="1588773246852" >
         <artifact
-            location="/home/wibeaver1/AndroidStudioProjects/Fifth2/app/build/outputs/apk/app-debug.apk"
+            location="C:\Users\manuk\AndroidStudioProjects\Fifth2\app\build\outputs\apk\app-debug.apk"
             type="MAIN" />
     </build>
 

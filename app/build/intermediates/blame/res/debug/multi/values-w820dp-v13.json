@@ -1,29 +1,5 @@
 [
     {
-        "outputFile": "C:\\home\\wibeaver1\\AndroidStudioProjects\\Fifth2\\app\\build\\intermediates\\res\\merged\\debug\\values-w820dp-v13\\values-w820dp-v13.xml",
-        "map": [
-            {
-                "to": {
-                    "startLine": 2,
-                    "startColumn": 4,
-                    "startOffset": 55,
-                    "endColumn": 57,
-                    "endOffset": 108
-                },
-                "from": {
-                    "file": "C:\\home\\wibeaver1\\AndroidStudioProjects\\Fifth2\\app\\src\\main\\res\\values-w820dp\\dimens.xml",
-                    "position": {
-                        "startLine": 4,
-                        "startColumn": 4,
-                        "startOffset": 291,
-                        "endColumn": 57,
-                        "endOffset": 344
-                    }
-                }
-            }
-        ]
-    },
-    {
         "outputFile": "C:\\Users\\manuk\\AndroidStudioProjects\\Fifth2\\app\\build\\intermediates\\res\\merged\\debug\\values-w820dp-v13\\values-w820dp-v13.xml",
         "map": [
             {
@@ -39,9 +15,9 @@
                     "position": {
                         "startLine": 4,
                         "startColumn": 4,
-                        "startOffset": 291,
+                        "startOffset": 295,
                         "endColumn": 57,
-                        "endOffset": 344
+                        "endOffset": 348
                     }
                 }
             }
