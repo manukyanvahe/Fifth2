@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="horizontal"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:weightSum="6"
+    android:padding="@dimen/activity_horizontal_margin">
+
+    <LinearLayout
+        android:layout_width="0dp"
+        android:layout_weight="5"
+        android:orientation="horizontal"
+        android:layout_height="wrap_content">
+        <com.joooonho.SelectableRoundedImageView
+            xmlns:app="http://schemas.android.com/apk/res-auto"
+            android:id="@+id/image"
+            android:src="@android:drawable/sym_def_app_icon"
+            android:scaleType="centerCrop"
+            app:sriv_border_width="0dip"
+            app:sriv_border_color="#008fea"
+            app:sriv_oval="true"
+            android:layout_height="50dp"
+            android:layout_width="50dp"/>
+        <LinearLayout
+            android:paddingLeft="@dimen/activity_horizontal_margin"
+            android:orientation="vertical"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+
+            <TextView
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:textSize="19sp"
+                android:id="@+id/name" />
+
+            <TextView
+                android:layout_width="fill_parent"
+                android:layout_height="18dp"
+                android:id="@+id/message" />
+        </LinearLayout>
+
+    </LinearLayout>
+</LinearLayout>

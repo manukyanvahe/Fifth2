@@ -4,12 +4,12 @@
         "source": "C:\\Users\\manuk\\AndroidStudioProjects\\Fifth2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-xhdpi-v4\\abc_popup_background_mtrl_mult.9.png"
     },
     {
-        "merged": "C:\\Users\\manuk\\AndroidStudioProjects\\Fifth2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_sent.png",
-        "source": "C:\\Users\\manuk\\AndroidStudioProjects\\Fifth2\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_sent.png"
-    },
-    {
         "merged": "C:\\Users\\manuk\\AndroidStudioProjects\\Fifth2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_btn_radio_to_on_mtrl_015.png",
         "source": "C:\\Users\\manuk\\AndroidStudioProjects\\Fifth2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-xhdpi-v4\\abc_btn_radio_to_on_mtrl_015.png"
+    },
+    {
+        "merged": "C:\\Users\\manuk\\AndroidStudioProjects\\Fifth2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_sent.png",
+        "source": "C:\\Users\\manuk\\AndroidStudioProjects\\Fifth2\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_sent.png"
     },
     {
         "merged": "C:\\Users\\manuk\\AndroidStudioProjects\\Fifth2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_list_selector_disabled_holo_light.9.png",

@@ -3,20 +3,19 @@ package am.fifth.android.fifth.Fragments;
 import android.content.Intent;
 import android.os.Bundle;
 import android.support.v4.app.Fragment;
-import android.util.Log;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
 import android.widget.AdapterView;
 import android.widget.ListView;
 
-import am.fifth.android.fifth.Activities.Conversation;
+import am.fifth.android.fifth.Activities.Message;
 import am.fifth.android.fifth.Commands.LoadThreads;
 import am.fifth.android.fifth.R;
 
 public class Threads extends Fragment {
 
-    private static final String TAG = "Conversation fragment";
+    private static final String TAG = "Message fragment";
     private View fragmentView ;
 
     public Threads() {
@@ -45,7 +44,7 @@ public class Threads extends Fragment {
 
             @Override
             public void onItemClick(AdapterView<?> listView, View threadView, int arg2,long arg3) {
-                Intent intent = new Intent(getContext(), Conversation.class);
+                Intent intent = new Intent(getContext(), Message.class);
                 intent.putExtra("thread_id", threadView.getId());
                 startActivity(intent);
                 //Log.i(TAG, "Items " + threadView.getId() );

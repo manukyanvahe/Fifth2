@@ -33,7 +33,13 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
-        <activity android:name="am.fifth.android.fifth.Activities.Conversation" />
+        <activity
+            android:name="am.fifth.android.fifth.Activities.Conversation"
+            android:parentActivityName="am.fifth.android.fifth.Activities.Main" >
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value=".Activities.Main" />
+        </activity>
     </application>
 
 </manifest>

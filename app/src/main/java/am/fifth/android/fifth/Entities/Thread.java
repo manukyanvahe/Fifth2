@@ -24,7 +24,7 @@ public class Thread {
     public Boolean isReceived;
 
     public Thread(JSONObject threadJson) throws JSONException {
-        Log.i(TAG, threadJson.toString());
+        //Log.i(TAG, threadJson.toString());
         setId(threadJson.getInt("id"));
         setType(threadJson.getInt("type"));
         setUnreadCount(threadJson.getInt("unread_count"));

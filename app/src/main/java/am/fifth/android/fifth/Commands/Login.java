@@ -87,10 +87,4 @@ public class Login {
         JSONObject UserJson = new JSONObject(response);
         TokenManager.storeToken(context,UserJson.getJSONObject("profile_data").getString("api_token"));
     }
-
-    private void redirectToMain() {
-        Intent intent = new Intent(context, Main.class);
-        context.startActivity(intent);
-    }
-
 }
