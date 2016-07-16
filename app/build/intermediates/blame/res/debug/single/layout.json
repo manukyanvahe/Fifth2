@@ -120,12 +120,12 @@
         "source": "C:\\Users\\manuk\\AndroidStudioProjects\\Fifth2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\select_dialog_multichoice_material.xml"
     },
     {
-        "merged": "C:\\Users\\manuk\\AndroidStudioProjects\\Fifth2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple_overlay_action_mode.xml",
-        "source": "C:\\Users\\manuk\\AndroidStudioProjects\\Fifth2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\abc_screen_simple_overlay_action_mode.xml"
-    },
-    {
         "merged": "C:\\Users\\manuk\\AndroidStudioProjects\\Fifth2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_bar.xml",
         "source": "C:\\Users\\manuk\\AndroidStudioProjects\\Fifth2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\abc_action_mode_bar.xml"
+    },
+    {
+        "merged": "C:\\Users\\manuk\\AndroidStudioProjects\\Fifth2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple_overlay_action_mode.xml",
+        "source": "C:\\Users\\manuk\\AndroidStudioProjects\\Fifth2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\abc_screen_simple_overlay_action_mode.xml"
     },
     {
         "merged": "C:\\Users\\manuk\\AndroidStudioProjects\\Fifth2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_item_material.xml",
@@ -164,12 +164,20 @@
         "source": "C:\\Users\\manuk\\AndroidStudioProjects\\Fifth2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\notification_template_part_time.xml"
     },
     {
+        "merged": "C:\\Users\\manuk\\AndroidStudioProjects\\Fifth2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\messages.xml",
+        "source": "C:\\Users\\manuk\\AndroidStudioProjects\\Fifth2\\app\\src\\main\\res\\layout\\messages.xml"
+    },
+    {
         "merged": "C:\\Users\\manuk\\AndroidStudioProjects\\Fifth2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_item_layout.xml",
         "source": "C:\\Users\\manuk\\AndroidStudioProjects\\Fifth2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\abc_action_menu_item_layout.xml"
     },
     {
         "merged": "C:\\Users\\manuk\\AndroidStudioProjects\\Fifth2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_dropdown_item_icons_2line.xml",
         "source": "C:\\Users\\manuk\\AndroidStudioProjects\\Fifth2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\abc_search_dropdown_item_icons_2line.xml"
+    },
+    {
+        "merged": "C:\\Users\\manuk\\AndroidStudioProjects\\Fifth2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\message_item_sent.xml",
+        "source": "C:\\Users\\manuk\\AndroidStudioProjects\\Fifth2\\app\\src\\main\\res\\layout\\message_item_sent.xml"
     },
     {
         "merged": "C:\\Users\\manuk\\AndroidStudioProjects\\Fifth2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_tab_text.xml",
@@ -196,16 +204,16 @@
         "source": "C:\\Users\\manuk\\AndroidStudioProjects\\Fifth2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\support_simple_spinner_dropdown_item.xml"
     },
     {
+        "merged": "C:\\Users\\manuk\\AndroidStudioProjects\\Fifth2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\message_item_received.xml",
+        "source": "C:\\Users\\manuk\\AndroidStudioProjects\\Fifth2\\app\\src\\main\\res\\layout\\message_item_received.xml"
+    },
+    {
         "merged": "C:\\Users\\manuk\\AndroidStudioProjects\\Fifth2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_icon.xml",
         "source": "C:\\Users\\manuk\\AndroidStudioProjects\\Fifth2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\abc_list_menu_item_icon.xml"
     },
     {
         "merged": "C:\\Users\\manuk\\AndroidStudioProjects\\Fifth2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple.xml",
         "source": "C:\\Users\\manuk\\AndroidStudioProjects\\Fifth2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\abc_screen_simple.xml"
-    },
-    {
-        "merged": "C:\\Users\\manuk\\AndroidStudioProjects\\Fifth2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\conversation.xml",
-        "source": "C:\\Users\\manuk\\AndroidStudioProjects\\Fifth2\\app\\src\\main\\res\\layout\\conversation.xml"
     },
     {
         "merged": "C:\\Users\\manuk\\AndroidStudioProjects\\Fifth2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_lines.xml",

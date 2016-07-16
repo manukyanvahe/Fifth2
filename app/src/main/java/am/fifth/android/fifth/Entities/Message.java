@@ -14,7 +14,7 @@ public class Message {
     public String senderImageUrl;
 
     public Message(JSONObject messageJson) throws JSONException {
-        Log.i(TAG, messageJson)
+        Log.i(TAG, messageJson.toString());
     }
 
     public String created_at;

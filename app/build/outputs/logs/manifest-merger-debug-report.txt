@@ -78,12 +78,12 @@ category#android.intent.category.LAUNCHER
 ADDED from C:\Users\manuk\AndroidStudioProjects\Fifth2\app\src\main\AndroidManifest.xml:27:17-77
 	android:name
 		ADDED from C:\Users\manuk\AndroidStudioProjects\Fifth2\app\src\main\AndroidManifest.xml:27:27-74
-activity#am.fifth.android.fifth.Activities.Conversation
+activity#am.fifth.android.fifth.Activities.Message
 ADDED from C:\Users\manuk\AndroidStudioProjects\Fifth2\app\src\main\AndroidManifest.xml:30:9-37:20
 	android:parentActivityName
 		ADDED from C:\Users\manuk\AndroidStudioProjects\Fifth2\app\src\main\AndroidManifest.xml:32:13-58
 	android:name
-		ADDED from C:\Users\manuk\AndroidStudioProjects\Fifth2\app\src\main\AndroidManifest.xml:31:13-52
+		ADDED from C:\Users\manuk\AndroidStudioProjects\Fifth2\app\src\main\AndroidManifest.xml:31:13-47
 meta-data#android.support.PARENT_ACTIVITY
 ADDED from C:\Users\manuk\AndroidStudioProjects\Fifth2\app\src\main\AndroidManifest.xml:33:13-35:52
 	android:name

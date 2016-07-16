@@ -18,6 +18,7 @@ import com.nostra13.universalimageloader.core.assist.ImageSize;
 import java.text.ParseException;
 import java.util.List;
 
+import am.fifth.android.fifth.Entities.Message;
 import am.fifth.android.fifth.Entities.Thread;
 import am.fifth.android.fifth.R;
 
